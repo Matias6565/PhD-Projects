@@ -7,3 +7,6 @@
 [submodule "SGO_Journal"]
 	path = SGO_Journal
 	url = https://github.com/meimarcel/sgo-applied-in-cf-ran-network-dimensioning.git
+[submodule "ILP_LP_Flexible_Split"]
+	path = ILP_LP_Flexible_Split
+	url = https://github.com/Matias6565/ILP_LP_Project.git
