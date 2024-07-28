@@ -10,3 +10,6 @@
 [submodule "ILP_LP_Flexible_Split"]
 	path = ILP_LP_Flexible_Split
 	url = https://github.com/Matias6565/ILP_LP_Project.git
+[submodule "Agrupamento da Tese"]
+	path = Agrupamento da Tese
+	url = https://github.com/Matias6565/Custering_Project.git
