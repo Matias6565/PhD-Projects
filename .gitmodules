@@ -1,0 +1,6 @@
+[submodule "CF-RAN-Network-Dimensioning"]
+	path = CF-RAN-Network-Dimensioning
+	url = https://github.com/Matias6565/CF-RAN-Network-Dimensioning.git
+[submodule "Ilp + SGO_v1"]
+	path = Ilp + SGO_v1
+	url = https://github.com/Matias6565/Dynamic_ILP.git
