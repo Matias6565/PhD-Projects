@@ -4,3 +4,6 @@
 [submodule "Ilp + SGO_v1"]
 	path = Ilp + SGO_v1
 	url = https://github.com/Matias6565/Dynamic_ILP.git
+[submodule "SGO_Journal"]
+	path = SGO_Journal
+	url = https://github.com/meimarcel/sgo-applied-in-cf-ran-network-dimensioning.git
